@@ -67,6 +67,8 @@ Hidden-state divergence was measured relative to the FP16 reference trajectory.
 | 15,000 | 23.18 | 21.95 |
 
 Across the evaluated sequence lengths, topology-aware precision allocation consistently produced lower state divergence than uniform quantization.
+<img width="1172" height="231" alt="image" src="https://github.com/user-attachments/assets/b520d53d-d869-4e4c-813f-d3ae1d4d5aed" />
+
 
 ---
 
