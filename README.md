@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22850090.svg)](https://doi.org/10.5281/zenodo.22850090)
 # Quantization Sensitivity in Recurrent State-Space Model Dynamics
 
 ## Overview
